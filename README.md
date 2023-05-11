@@ -1,2 +1,2 @@
-# api-fund-calculator
-Application to calculate API funds based on extensible funding strategies.
+# api-fund-allocation-calculator
+Application to calculate funding allocation based on extensible funding strategies.
